@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activ2", "Activ2.csproj", "{2487E23D-56A4-42D7-A551-B2C1B0CB00F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activ3", "Activ3.csproj", "{2487E23D-56A4-42D7-A551-B2C1B0CB00F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
